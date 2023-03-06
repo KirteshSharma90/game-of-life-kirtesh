@@ -1,0 +1,22 @@
+{
+  "name": "game-of-life-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirteshSharma90/game-of-life-kirtesh.git"
+  },
+  "author": "Kirtesh Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirteshSharma90/game-of-life-kirtesh/issues"
+  },
+  "homepage": "https://github.com/KirteshSharma90/game-of-life-kirtesh#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
